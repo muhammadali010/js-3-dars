@@ -63,7 +63,7 @@
 // let a =+prompt("a ni kiriting");
 // let b =+prompt("b ni kiriting");
 // let c =+prompt("c ni kiriting");
-// if (a<b<c){
+// if (a<b && b<c || a>b && b>c){
 // console.log('true');
 // }else {
 // console.log('false');
